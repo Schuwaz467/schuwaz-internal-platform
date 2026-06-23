@@ -1,4 +1,4 @@
-# Schuwaz — Internal Operations Platform (Wireframe Prototype)
+# Danny — Internal Operations Platform (Wireframe Prototype)
 
 Wireframes and a clickable prototype for **Danny's internal van-hire platform**, built from
 the discovery call transcript using the Vibeframing approach (transcript → ASCII blueprint →
@@ -11,7 +11,7 @@ interactive prototype).
 
 ## The brief
 
-Schuwaz hires splitter vans to bands and touring crews — 8 vans, East London, ~8 bookings a
+Danny hires splitter vans to bands and touring crews — 8 vans, East London, ~8 bookings a
 week, run mostly by Danny with Liam (van maintenance) and Theo (bills). Danny's core problem,
 in his words, is **the chasing**: once a customer says "yes," everything melts down — chasing
 deposits, driver licences, proof of address and documents, with information scattered across
