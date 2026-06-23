@@ -1,4 +1,4 @@
-# Schuwaz Internal Operations Platform — Wireframe Blueprint
+# Danny Internal Operations Platform — Wireframe Blueprint
 
 Business: Splitter van hire for bands/touring crews. 8 vans, East London, ~8 bookings/week.
 Team: Danny (owner, quotes + admin), Liam (van maintenance), Theo (bills/rehearsal rooms).
